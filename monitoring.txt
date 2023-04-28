@@ -1,0 +1,199 @@
+Iniciando programa
+Creando Threads
+Iniciando thread Iniciando thread 1539
+Iniciando iteracion 1
+Se comsumiran 16 recursos
+1539 - (!) Recurso tomado
+Buenos dias! Recurso usado1539
+Mutex adquirido, entrando al monitor
+Iniciando decrease_count
+Recusos suficientes disponibles, consumiendo...
+Iniciando thread 1541
+Iniciando iteracion 1
+Se comsumiran 16 recursos
+Iniciando thread 1540
+Iniciando iteracion 1
+Se comsumiran 16 recursos
+1538
+Iniciando iteracion 1
+Se comsumiran 16 recursos
+Terminando decrease_count
+Mutex liberado
+Iniciando increase_count
+Terminando increase_count
+Mutex liberado
+Iniciando iteracion 2
+Se comsumiran 16 recursos
+1539 - (!) Recurso tomado
+Buenos dias! Recurso usado1539
+Mutex adquirido, entrando al monitor
+Iniciando decrease_count
+Recusos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Mutex liberado
+Iniciando increase_count
+Terminando increase_count
+Mutex liberado
+Iniciando iteracion 3
+Se comsumiran 16 recursos
+1539 - (!) Recurso tomado
+Buenos dias! Recurso usado1539
+Mutex adquirido, entrando al monitor
+Iniciando decrease_count
+Recusos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Mutex liberado
+Iniciando increase_count
+Terminando increase_count
+Mutex liberado
+Iniciando iteracion 4
+Se comsumiran 16 recursos
+1539 - (!) Recurso tomado
+Buenos dias! Recurso usado1539
+Mutex adquirido, entrando al monitor
+Iniciando decrease_count
+Recusos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Mutex liberado
+Iniciando increase_count
+Terminando increase_count
+Mutex liberado
+1541 - (!) Recurso tomado
+Buenos dias! Recurso usado1541
+Mutex adquirido, entrando al monitor
+Iniciando decrease_count
+Recusos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Mutex liberado
+Iniciando increase_count
+Terminando increase_count
+Mutex liberado
+Iniciando iteracion 2
+Se comsumiran 16 recursos
+1541 - (!) Recurso tomado
+Buenos dias! Recurso usado1541
+Mutex adquirido, entrando al monitor
+Iniciando decrease_count
+Recusos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Mutex liberado
+Iniciando increase_count
+Terminando increase_count
+Mutex liberado
+Iniciando iteracion 3
+Se comsumiran 16 recursos
+1541 - (!) Recurso tomado
+Buenos dias! Recurso usado1541
+Mutex adquirido, entrando al monitor
+Iniciando decrease_count
+Recusos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Mutex liberado
+Iniciando increase_count
+Terminando increase_count
+Mutex liberado
+Iniciando iteracion 4
+Se comsumiran 16 recursos
+1541 - (!) Recurso tomado
+Buenos dias! Recurso usado1541
+Mutex adquirido, entrando al monitor
+Iniciando decrease_count
+Recusos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Mutex liberado
+Iniciando increase_count
+Terminando increase_count
+Mutex liberado
+1538 - (!) Recurso tomado
+Buenos dias! Recurso usado1538
+Mutex adquirido, entrando al monitor
+Iniciando decrease_count
+Recusos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Mutex liberado
+Iniciando increase_count
+Terminando increase_count
+Mutex liberado
+Iniciando iteracion 2
+Se comsumiran 16 recursos
+1538 - (!) Recurso tomado
+Buenos dias! Recurso usado1538
+Mutex adquirido, entrando al monitor
+Iniciando decrease_count
+Recusos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Mutex liberado
+Iniciando increase_count
+Terminando increase_count
+Mutex liberado
+Iniciando iteracion 3
+Se comsumiran 16 recursos
+1538 - (!) Recurso tomado
+Buenos dias! Recurso usado1538
+Mutex adquirido, entrando al monitor
+Iniciando decrease_count
+Recusos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Mutex liberado
+Iniciando increase_count
+Terminando increase_count
+Mutex liberado
+Iniciando iteracion 4
+Se comsumiran 16 recursos
+1538 - (!) Recurso tomado
+Buenos dias! Recurso usado1538
+Mutex adquirido, entrando al monitor
+Iniciando decrease_count
+Recusos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Mutex liberado
+Iniciando increase_count
+Terminando increase_count
+Mutex liberado
+1540 - (!) Recurso tomado
+Buenos dias! Recurso usado1540
+Mutex adquirido, entrando al monitor
+Iniciando decrease_count
+Recusos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Mutex liberado
+Iniciando increase_count
+Terminando increase_count
+Mutex liberado
+Iniciando iteracion 2
+Se comsumiran 16 recursos
+1540 - (!) Recurso tomado
+Buenos dias! Recurso usado1540
+Mutex adquirido, entrando al monitor
+Iniciando decrease_count
+Recusos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Mutex liberado
+Iniciando increase_count
+Terminando increase_count
+Mutex liberado
+Iniciando iteracion 3
+Se comsumiran 16 recursos
+1540 - (!) Recurso tomado
+Buenos dias! Recurso usado1540
+Mutex adquirido, entrando al monitor
+Iniciando decrease_count
+Recusos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Mutex liberado
+Iniciando increase_count
+Terminando increase_count
+Mutex liberado
+Iniciando iteracion 4
+Se comsumiran 16 recursos
+1540 - (!) Recurso tomado
+Buenos dias! Recurso usado1540
+Mutex adquirido, entrando al monitor
+Iniciando decrease_count
+Recusos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Mutex liberado
+Iniciando increase_count
+Terminando increase_count
+Mutex liberado
+Fertig

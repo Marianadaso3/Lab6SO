@@ -1,0 +1,67 @@
+Iniciando programa
+Creando threads
+Iniciando thread 7512
+Esperando thread
+7512- semafoto abierto con exito
+7512- Iniciando iteracion 0
+7512- (!) Recurso tomado
+Iniciando thread 7513
+Esperando thread
+7513- semafoto abierto con exito
+7513- Iniciando iteracion 0
+Iniciando thread 7514
+Esperando thread
+7514- semafoto abierto con exito
+7514- Iniciando iteracion 0
+Iniciando thread 7515
+Esperando thread
+7515- semafoto abierto con exito
+7515- Iniciando iteracion 0
+Iniciando thread 7511
+Esperando thread
+7511- semafoto abierto con exito
+7511- Iniciando iteracion 0
+7512- Buenos dias! Recurso usado
+7512- Recurso devuelto :)
+7512- Iniciando iteracion 1
+7512- (!) Recurso tomado
+7512- Buenos dias! Recurso usado
+7512- Recurso devuelto :)
+7512 - Semaforo muerto
+Terminando thread 7512
+7514- (!) Recurso tomado
+7514- Buenos dias! Recurso usado
+7514- Recurso devuelto :)
+7514- Iniciando iteracion 1
+7514- (!) Recurso tomado
+7514- Buenos dias! Recurso usado
+7514- Recurso devuelto :)
+7514 - Semaforo muerto
+Terminando thread 7514
+7511- (!) Recurso tomado
+7511- Buenos dias! Recurso usado
+7511- Recurso devuelto :)
+7511- Iniciando iteracion 1
+7511- (!) Recurso tomado
+7511- Buenos dias! Recurso usado
+7511- Recurso devuelto :)
+7511 - Semaforo muerto
+Terminando thread 7511
+7515- (!) Recurso tomado
+7515- Buenos dias! Recurso usado
+7515- Recurso devuelto :)
+7515- Iniciando iteracion 1
+7515- (!) Recurso tomado
+7515- Buenos dias! Recurso usado
+7515- Recurso devuelto :)
+7515 - Semaforo muerto
+Terminando thread 7515
+7513- (!) Recurso tomado
+7513- Buenos dias! Recurso usado
+7513- Recurso devuelto :)
+7513- Iniciando iteracion 1
+7513- (!) Recurso tomado
+7513- Buenos dias! Recurso usado
+7513- Recurso devuelto :)
+7513 - Semaforo muerto
+Terminando thread 7513
